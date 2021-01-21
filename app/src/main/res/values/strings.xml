@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ПластоваПроба</string>
+    <string name="registration">Реєстрація</string>
+    <string name="hello_text">СКОБ! Я твоя</string>
+    <string name="hello_text_green">пластова проба</string>
+    <string name="hello_text1">Зручна онлайн-проба у твоєму телефоні, яка завжди буде поруч</string>
+    <string name="button_1">Як це працює?</string>
+    <string name="text_already_has_profile">Вже маєш профіль?</string>
+    <string name="text_good_materials">Якісні матеріали для здачі точок</string>
+    <string name="description_2">Ми підготували всю необхідну інформацію, щоб класно здати точку</string>
+    <string name="text_next">Далі</string>
+    <string name="skip">Пропустити</string>
+    <string name="text_progress">Особистий прогрес здачі проби</string>
+    <string name="description_3">Детально контролюй процес здачі проби прямо у своєму телефоні</string>
+    <string name="header_3">Виховники теж у додатку</string>
+    <string name="description_4">Виховник самостійно позначає вже здані точки зі своєї сторони додатку</string>
+    <string name="header_5">Ця не загубиться, не згорить і не намокне</string>
+    <string name="description_5">Ми зберігаємо все онлайн, тому в додатку твоя проба завжди буде ціла і з тобою</string>
+
+</resources>
